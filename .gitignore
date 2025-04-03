@@ -1,0 +1,5 @@
+.venv/ 
+yolo-weights/ 
+*.weights 
+*.pt 
+.idea/ 
